@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JodConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="JodConverter.jar">
+      <element id="module-output" name="JodConverter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openoffice/ridl/2.2.0/ridl-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.1/commons-io-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openoffice/jurt/2.2.0/jurt-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openoffice/juh/2.2.0/juh-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openoffice/unoil/2.2.0/unoil-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/artofsolving/jodconverter/2.2.0/jodconverter-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.4.0/slf4j-api-1.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

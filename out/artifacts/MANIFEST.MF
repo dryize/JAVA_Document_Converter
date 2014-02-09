@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Solar-Version: 680m1(Build:9107)
+
